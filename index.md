@@ -11,3 +11,6 @@ Normal Text
 ```
 Not Normal Text
 ```
+
+- [x] This one is checked
+- [ ] This one isn't
